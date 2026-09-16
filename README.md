@@ -6,3 +6,5 @@ A hands-on Solidity learning repository containing notes, experiments, and small
     <li><a href="https://github.com/Mablenn/Solidity-TISCITW/tree/main/arrays">Arrays</a></li>
     <li><a href="https://github.com/Mablenn/Solidity-TISCITW/tree/main/variables">Variables</a></li>    
 </ul>
+
+![Progreso](https://img.shields.io/badge/progreso-10%25-yellowgreen)
