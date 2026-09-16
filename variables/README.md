@@ -1,4 +1,4 @@
-<h1>Variales de estado</h1>
+<h1>Variables de estado</h1>
 <ul>
     <li>uint</li>
     <li>address</li>
